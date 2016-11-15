@@ -1,0 +1,5 @@
+c:\Dev\Futbol\Futbol\bin\Debug\Futbol.dacpac
+c:\Dev\Futbol\Futbol\obj\Debug\Futbol.dll
+c:\Dev\Futbol\Futbol\obj\Debug\Futbol.pdb
+c:\Dev\Futbol\Futbol\bin\Debug\Futbol.dll
+c:\Dev\Futbol\Futbol\bin\Debug\Futbol.pdb
